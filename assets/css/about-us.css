@@ -1,0 +1,12 @@
+/* -----------------------------------------------------------
+About-us-page-------------------------------------------------
+---------------------------- */
+.about-us-image{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.img-fluid{
+    width:60% !important;
+}
